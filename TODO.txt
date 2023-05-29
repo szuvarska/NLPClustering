@@ -1,0 +1,37 @@
+Preprocessing:
+- podział zbiorów - done
+- rozdzielenie tekstu na path, subject, from, re itd. - usunęłam nagłówki po prostu
+- sprawdzenie braków - done, chyba że braki są zapisane inaczej
+- wydzielenie słów - done
+- znaki interpunkcyjne - done
+- linki - done
+- białe znaki - done
+- duże/małe litery - done
+- język - do sprawdzenia
+- lematyzacja - done
+- analiza sentymentalna - done
+- stop words - done
+- części mowy - done
+- korelacja - done
+- wektoryzacja - done
+
+
+spaCy pipeline?
+- tokenizacja
+- określenie części mowy
+- sprawdzenie gramatyki
+- lematyzacja
+- rozpoznawanie nazw organizacji, walut, imion i nazwisk, firm, lokalizacji geograficznych, dat itp.
+- analiza sentymentalna
+- i inne rzeczy co były robione z nltk (do sprawdzenia)
+
+Klasteryzacja:
+- KMeans - zainicjowany, ale można się pobawić parametrami
+- MiniBatch
+- DBSCAN
+- GaussianMixture
+- k-medoids
+- Agglomerative Clustering
+- rysowanie klastrów
+- wordclouds dla wydzielonych klastrów - done
+- metody interpretowalne (to później)
