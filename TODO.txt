@@ -12,7 +12,7 @@
 - stop words - done
 - części mowy - done
 - korelacja - done
-- wektoryzacja
+- wektoryzacja - done
 - wordclouds dla wydzielonych klasterów
 
 
