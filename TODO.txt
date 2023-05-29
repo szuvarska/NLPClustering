@@ -1,3 +1,4 @@
+Preprocessing:
 - podział zbiorów - done
 - rozdzielenie tekstu na path, subject, from, re itd. - usunęłam nagłówki po prostu
 - sprawdzenie braków - done, chyba że braki są zapisane inaczej
@@ -13,7 +14,6 @@
 - części mowy - done
 - korelacja - done
 - wektoryzacja - done
-- wordclouds dla wydzielonych klasterów
 
 
 spaCy pipeline?
@@ -24,3 +24,8 @@ spaCy pipeline?
 - rozpoznawanie nazw organizacji, walut, imion i nazwisk, firm, lokalizacji geograficznych, dat itp.
 - analiza sentymentalna
 - i inne rzeczy co były robione z nltk (do sprawdzenia)
+
+Klasteryzacja:
+- KMeans - zainicjowany, ale można się pobawić parametrami
+- GaussianMixture
+- wordclouds dla wydzielonych klastrów - done
