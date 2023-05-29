@@ -27,5 +27,11 @@ spaCy pipeline?
 
 Klasteryzacja:
 - KMeans - zainicjowany, ale można się pobawić parametrami
+- MiniBatch
+- DBSCAN
 - GaussianMixture
+- k-medoids
+- Agglomerative Clustering
+- rysowanie klastrów
 - wordclouds dla wydzielonych klastrów - done
+- metody interpretowalne (to później)
