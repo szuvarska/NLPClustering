@@ -14,9 +14,10 @@ Preprocessing:
 - części mowy - done
 - korelacja - done
 - wektoryzacja - done
+- sprawdzić, czy brakujące dane po czyszczeniu i przed czyszczeniem to te same
 
 
-spaCy pipeline?
+spaCy pipeline? (albo gensim)
 - tokenizacja
 - określenie części mowy
 - sprawdzenie gramatyki
