@@ -42,3 +42,5 @@ Madzia zrobi:
 - klasteryzacja dla innych liczb klastrów (tyle co jest tych grup podgrup, plus też inne liczby)
 - wizualizacja klastrów (jakieś pca czy coś innego do redukcji wymiarów, jak nie pójdzie to probka)
 pewnie coś jeszcze w międzyczasie dopiszę
+- nazwanie klastrów
+- jakieś inne metody interpretowalne dla naszego przypadku
