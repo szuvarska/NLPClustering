@@ -36,3 +36,9 @@ Klasteryzacja:
 - rysowanie klastrów
 - wordclouds dla wydzielonych klastrów - done
 - metody interpretowalne (to później)
+
+Madzia zrobi:
+- inne modele z klasteryzacji i wypisanie najczęstszych słów do nich
+- klasteryzacja dla innych liczb klastrów (tyle co jest tych grup podgrup, plus też inne liczby)
+- wizualizacja klastrów (jakieś pca czy coś innego do redukcji wymiarów, jak nie pójdzie to probka)
+pewnie coś jeszcze w międzyczasie dopiszę
