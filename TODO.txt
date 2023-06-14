@@ -44,3 +44,4 @@ Madzia zrobi:
 pewnie coś jeszcze w międzyczasie dopiszę
 - nazwanie klastrów
 - jakieś inne metody interpretowalne dla naszego przypadku
+- confusion matrix
