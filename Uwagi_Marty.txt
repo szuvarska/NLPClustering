@@ -3,6 +3,7 @@ df[(df["text"] == '') | (df["text"] == '[]')]
 Przed removing headers: 0
 Po removing headers: 8
 Coś nie tak z funkcją remove headers może?
+Nie, tam są po prostu puste dokumenty.
 
 def remove_header(text):
     split_text = text.split('\n\n', 1)
