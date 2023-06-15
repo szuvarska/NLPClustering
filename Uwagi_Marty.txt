@@ -1,0 +1,20 @@
+1. Sprawdzenie brakujących danych
+df[(df["text"] == '') | (df["text"] == '[]')]
+Przed removing headers: 0
+Po removing headers: 8
+Coś nie tak z funkcją remove headers może?
+
+def remove_header(text):
+    split_text = text.split('\n\n', 1)
+    if len(split_text) > 1:
+        print(split_text)
+        return '\n\n'.join(split_text[1:])
+    return text
+
+2. Coś zmieniamy max_features w tfidf vectorizer?
+
+3. Myślę, że ten other model do wywalenia; tylko zostawić combined.
+Na pewno nie można printować most relevant terms dla other, bo tam nie ma słów, więc to nie ma sensu XD
+Może zrobić feature importance tam jak w poprzednim projekcie
+
+4. Przy wizualizacji klastrów trzeba sfaktorować numery klastrów
